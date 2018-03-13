@@ -1,3 +1,3 @@
 # StrategyRoyale
 
-Welcome to StrategyRoyale; a community for high-quality strategy content. StrategyRoyale is home to the most comprehensive strategy guides and videos. We've scourged the internet to find you only the MOST comprehensive strategy guides... as well as writing a few of our own! Let's become a better clasher.
+Welcome to StrategyRoyale; a community for high-quality strategy content. StrategyRoyale is home to the most comprehensive strategy guides. Check out [our Discord server](https://discord.gg/vpZfvzn) for individual tips on your deck and in-game statistics. Join us; let's become a better clasher.
